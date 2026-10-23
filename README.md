@@ -1,11 +1,11 @@
-# 👗 SmartClosetAI — Armario Inteligente y Estilista Personal con IA en SQL Server 2025
+#  SmartClosetAI — Armario Inteligente y Estilista Personal con IA en SQL Server 2025
 
 > **Proyecto Final — Certificación Microsoft DP-800**  
 > Diseño relacional avanzado, seguridad corporativa Multi-Tenant (RLS & DDM), vectores nativos (`VECTOR(768)`), búsqueda inteligente híbrida (RRF), arquitectura RAG 100% local con Ollama y aplicación web Full-Stack en Python (FastAPI + Streamlit).
 
 ---
 
-## 📋 Índice de Contenidos
+##  Índice de Contenidos
 
 1. [Descripción del Proyecto](#-1-descripción-del-proyecto)
 2. [Arquitectura de la Solución](#-2-arquitectura-de-la-solución)
@@ -21,7 +21,7 @@
 
 ---
 
-## 📌 1. Descripción del Proyecto
+##  1. Descripción del Proyecto
 
 **SmartClosetAI** es una solución integral de base de datos inteligente construida sobre **SQL Server 2025** que resuelve un problema cotidiano mediante Inteligencia Artificial Generativa y búsqueda vectorial: **la gestión inteligente de un armario personal y la recomendación de vestimenta contextualizada**.
 
@@ -34,7 +34,7 @@ Cuando un usuario le pregunta a un modelo de lenguaje tradicional (como ChatGPT)
 
 ---
 
-## 🏗️ 2. Arquitectura de la Solución
+##  2. Arquitectura de la Solución
 
 La arquitectura del proyecto integra cuatro capas desacopladas que se comunican de forma segura dentro de la máquina local:
 
